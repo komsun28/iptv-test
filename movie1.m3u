@@ -1,6 +1,21 @@
 #EXTM3U
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/1I8G9d50o0qjdhhkbTrUyJV4f5R2FB9aa.jpg",  THE GREAT HACK (2019) แฮ็กสนั่นโลก
-https://101-hls.playercdn.tk/hls/t4xiqDq/file_720.mp4/playlist.m3u8
+#EXTINF:-1 group-title="หนังผี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdZcZ9amc9A4w0ImeLYbIfP-l5iEGD7t45g&usqp=CAU",  THE EYE คนเห็นผี ภาค 1
+https://101-hls.playercdn.tk/hls/yldo5qf/file_360.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEYKCq9zv0NdcVOOqfscTnVEF5T-sPN6A4A&usqp=CAU",  VIRAL ไวรัสหนอนซอมบี้ถล่มโลก
+https://101-hls.playercdn.tk/hls/1h0oucp/file_360.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนังผี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhQdW_DMwwa_5TsGwms3qJEjl2BJBJz2X4g&usqp=CAU",  โปรแกรมหน้า วิญญาณอาฆาต COMING SOON
+https://101-hls.playercdn.tk/hls/6ebpkhe/file_360.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9s7aTF5LTKEbpgQWnwzslsKlY5YfzGwaa.jpg",  THE CAVE (2019) นางนอน
+https://101-hls.playercdn.tk/hls/LgkrOZp/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/4J6VPYpMOJSQmpeBH2ztJ4wYnLsRz8R9_%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2_The_Legend_of_Muay_Thai-_9_Satra.jpg",  9 ศาสตรา
+https://101-hls.playercdn.tk/hls/88d96oy/file_360.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9UGbMzg83sswzuQbFILMg0FKlVh2c7r.jpg",  BASIC รุกฆาต ปฏิบัติการลวงโลก
+https://101-hls.playercdn.tk/hls/524nnef/file_360.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img06.xyz/assets/movie_poster/a/a6902e91f2c6d1f428c2023fd3f9aefd.jpg",  Kingdom:  อาชินแห่งเผ่าเหนือ
 https://server31.oneplayer.online/hls/ekgPo1N/file_360.mp4/index-v1-a1.m3u8
@@ -8,8 +23,8 @@ https://server31.oneplayer.online/hls/ekgPo1N/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img06.xyz/assets/movie_poster/3/38a38fd8c1329b80a3cda38ff62ef511.jpg",  รูโรนิ เคนชิน ซามูไรพเนจร (ปฐมบท)
 https://fdsggdhthfdd.oneplayer.online/hls/Wr4WHxr/file_,360,.mp4.urlset/master.m3u8
 
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img06.xyz/assets/movie_poster/8/83ea141cc5bb2ef38ce2edc3e2a1a0ed.jpg",  ทรชนปล้นชั่ว
-https://server10.oneplayer.online/hls/o0xwT2c/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/BRat6HTDOKLeF4UWt1dG6Hr744nC3hD.jpg",  TO DUST เถ้า สู่ ธุลี
+https://101-hls.playercdn.tk/hls/yfnjdqo/file_360.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="Lupin 2" tvg-logo="https://www.img06.xyz/assets/movie_poster/a/a4162bf44bc2b822a90bd873d5590060.jpg",  EP.1
 https://vspxifpaivixijjrf.oneplayer.online/hls/e7FaDTc/file_360.mp4/index-v1-a1.m3u8
