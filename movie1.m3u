@@ -7,6 +7,30 @@ https://101-hls.playercdn.tk/hls/1h0oucp/file_360.mp4/playlist.m3u8
 
 #EXTINF:-1 group-title="หนังผี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhQdW_DMwwa_5TsGwms3qJEjl2BJBJz2X4g&usqp=CAU",  โปรแกรมหน้า วิญญาณอาฆาต COMING SOON
 https://101-hls.playercdn.tk/hls/6ebpkhe/file_360.mp4/playlist.m3u8
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/DpB08R1Uu93co51CSK8QfaC4bhCmsIfaa.jpg",  หอแต๊วแตก 1
+https://101-hls.playercdn.tk/hls/gVipWJq/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/JW0O0bbmwCe7egokJVVKTCwMEiTszbp.jpg",  หอแต๋วแตก 2 แหกกระเจิง
+https://101-hls.playercdn.tk/hls/lZz7Uaw/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/YH2Sze3SS5U0tKXX16eEQ3VXqFTucVP.jpg",  หอแต๋วแตก 3 แหวกชิมิ
+https://101-hls.playercdn.tk/hls/zsUxPk7/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/SoP35ULhqYHP16BAMZ3YzymzcridYjFaa.jpg",  หอแต๊วแตก 4 แหกมว๊าก
+https://101-hls.playercdn.tk/hls/25md4p4/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/LOli553WlC4iwUAZpamycVTzHoIAuCnaa.jpg",  หอแต๊วแตก 5 แหกนะคะ
+https://server9.oneplayer.online/hls/KS5G5HX/file_720.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/QqhhYkDXggU5yxJAohsdJAqYjMQPYit.jpg",  หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ
+https://server4.oneplayer.online/hls/bnw93SX/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5YOSieH4VjBkBHR5VZT11EjqaZ_CZ789IA&usqp=CAU",  Chaos Walking - จิตปฏิวัติโลก
+https://server26.oneplayer.online/hls/UX67IgA/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/pvGhkbqiAyCrKyTry2L7vzOjQSyVnS2.jpg",  INVASION DAY ชิปไวรัสล้างโลก
+https://101-hls.playercdn.tk/hls/50oy6yc/file_720.mp4/playlist.m3u8
+
 
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9s7aTF5LTKEbpgQWnwzslsKlY5YfzGwaa.jpg",  THE CAVE (2019) นางนอน
 https://101-hls.playercdn.tk/hls/LgkrOZp/file_720.mp4/playlist.m3u8
@@ -126,11 +150,53 @@ https://server27.oneplayer.online/hls/4WG7TDQ/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/6
 https://server26.oneplayer.online/hls/OfV5aEG/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="วิดีโอในเฟซบุ๊ก" tvg-logo="https://zhort.link/c7I",  โภคิน
-https://zhort.link/c7s
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
+https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 
-#EXTINF:-1 group-title="วิดีโอในเฟซบุ๊ก" tvg-logo="https://zhort.link/c7I",  โภคิน
-https://zhort.link/c7N
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/new-tv.jpg", NEW 18
+https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="วิดีโอในเฟซบุ๊ก" tvg-logo="https://zhort.link/c7I",  โภคิน
-https://zhort.link/c7w
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://img-ha.mthcdn.com/6yi5CF3nTyGv8p3nRqC0VKEWb1k=/mthai.com/app/uploads/2021/05/nationtv.png", NATION 22
+https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSe7z2Cb-9iuS10D8OadHagU)/dm/3/x6eoldf/d/live-2.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
+https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8tRp1_6X1dMv0dKnDOUYrr4)/dm/3/x6g9qjj/s/live-2.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
+https://www.livedoomovie.com/02_TRUE4U_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
+http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/480p/index.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
+https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
+https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
+https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
+https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
+https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
+http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w1515276573_b1928000_slThai.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​7 35
+https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV 36
+http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg", ทีวีรัฐสภา
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+
+#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.aiiztv.com/images/topnews.jpg", TOPNEWS
+https://live.topnews.co.th/hls/topnews_a_480.m3u8
