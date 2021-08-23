@@ -31,7 +31,6 @@ https://server26.oneplayer.online/hls/UX67IgA/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/pvGhkbqiAyCrKyTry2L7vzOjQSyVnS2.jpg",  INVASION DAY ชิปไวรัสล้างโลก
 https://101-hls.playercdn.tk/hls/50oy6yc/file_720.mp4/playlist.m3u8
 
-
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9s7aTF5LTKEbpgQWnwzslsKlY5YfzGwaa.jpg",  THE CAVE (2019) นางนอน
 https://101-hls.playercdn.tk/hls/LgkrOZp/file_720.mp4/playlist.m3u8
 
@@ -77,6 +76,7 @@ https://101-hls.playercdn.tk/hls/ztwsoyn/file_360.mp4/playlist.m3u8
 #EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/KPGUKK1p7hiWtZY81F5BZSPysGxQ6Dx.jpg",  กระดานผีกระชากวิญญาณ
 https://101-hls.playercdn.tk/hls/e6sovpv/file_360.mp4/playlist.m3u8
 
+##################----Netflix------##################
 
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.1
 https://ldkooeskd.oneplayer.online/hls/FiFZixw/file_720.mp4/index-v1-a1.m3u8
@@ -132,23 +132,37 @@ https://ldkooeskd.oneplayer.online/hls/C4BN9Cq/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.18
 https://server9.oneplayer.online/hls/3atgISx/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/1
-https://server26.oneplayer.online/hls/yMWGIjc/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.1
+https://ddspzoeujaouf.oneplayer.online/hls/XvE6dlL/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/2
-https://server27.oneplayer.online/hls/Cfx4D4G/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.2
+https://ddspzoeujaouf.oneplayer.online/hls/XvE6dlL/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/3
-https://server28.oneplayer.online/hls/bfcIdl0/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.2
+https://ddspzoeujaouf.oneplayer.online/hls/wmKRIvo/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/4
-https://server28.oneplayer.online/hls/YTj8ITj/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.3
+https://ddspzoeujaouf.oneplayer.online/hls/BQpqVnO/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/5
-https://server27.oneplayer.online/hls/4WG7TDQ/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.4
+https://ddspzoeujaouf.oneplayer.online/hls/Y5WIpnC/file_360.mp4/index-v1-a1.m3u8
 
-#EXTINF:-1 group-title="แกะซ่าฮายกก๊วน" tvg-logo="https://www.img04.xyz/assets/movie_poster/9/92b9dd1dd824c6978ad625fa7b10435c.jpg",  ผจญภัยในมอสซี่ บอตทอม Season 1/6
-https://server26.oneplayer.online/hls/OfV5aEG/file_360.mp4/index-v1-a1.m3u8
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.5
+https://ddspzoeujaouf.oneplayer.online/hls/kckJRhV/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.6
+https://ddspzoeujaouf.oneplayer.online/hls/LmEy6gl/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.7
+https://ddspzoeujaouf.oneplayer.online/hls/ct81ynM/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.8
+https://ddspzoeujaouf.oneplayer.online/hls/YV4Cjmu/file_360.mp4/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.9
+https://ddspzoeujaouf.oneplayer.online/hls/I5gqO7P/file_360.mp4/index-v1-a1.m3u8
+
+###############------TV--------###############
 
 #EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
