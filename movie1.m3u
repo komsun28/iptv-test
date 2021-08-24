@@ -1,81 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="หนังผี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhdZcZ9amc9A4w0ImeLYbIfP-l5iEGD7t45g&usqp=CAU",  THE EYE คนเห็นผี ภาค 1
-https://101-hls.playercdn.tk/hls/yldo5qf/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHEYKCq9zv0NdcVOOqfscTnVEF5T-sPN6A4A&usqp=CAU",  VIRAL ไวรัสหนอนซอมบี้ถล่มโลก
-https://101-hls.playercdn.tk/hls/1h0oucp/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนังผี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZhQdW_DMwwa_5TsGwms3qJEjl2BJBJz2X4g&usqp=CAU",  โปรแกรมหน้า วิญญาณอาฆาต COMING SOON
-https://101-hls.playercdn.tk/hls/6ebpkhe/file_360.mp4/playlist.m3u8
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/DpB08R1Uu93co51CSK8QfaC4bhCmsIfaa.jpg",  หอแต๊วแตก 1
-https://101-hls.playercdn.tk/hls/gVipWJq/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/JW0O0bbmwCe7egokJVVKTCwMEiTszbp.jpg",  หอแต๋วแตก 2 แหกกระเจิง
-https://101-hls.playercdn.tk/hls/lZz7Uaw/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/YH2Sze3SS5U0tKXX16eEQ3VXqFTucVP.jpg",  หอแต๋วแตก 3 แหวกชิมิ
-https://101-hls.playercdn.tk/hls/zsUxPk7/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/SoP35ULhqYHP16BAMZ3YzymzcridYjFaa.jpg",  หอแต๊วแตก 4 แหกมว๊าก
-https://101-hls.playercdn.tk/hls/25md4p4/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/LOli553WlC4iwUAZpamycVTzHoIAuCnaa.jpg",  หอแต๊วแตก 5 แหกนะคะ
-https://server9.oneplayer.online/hls/KS5G5HX/file_720.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/QqhhYkDXggU5yxJAohsdJAqYjMQPYit.jpg",  หอแต๋วแตก 6 แหกต่อไม่รอแล้วนะ
-https://server4.oneplayer.online/hls/bnw93SX/file_360.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI5YOSieH4VjBkBHR5VZT11EjqaZ_CZ789IA&usqp=CAU",  Chaos Walking - จิตปฏิวัติโลก
-https://server26.oneplayer.online/hls/UX67IgA/file_360.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/pvGhkbqiAyCrKyTry2L7vzOjQSyVnS2.jpg",  INVASION DAY ชิปไวรัสล้างโลก
-https://101-hls.playercdn.tk/hls/50oy6yc/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9s7aTF5LTKEbpgQWnwzslsKlY5YfzGwaa.jpg",  THE CAVE (2019) นางนอน
-https://101-hls.playercdn.tk/hls/LgkrOZp/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/4J6VPYpMOJSQmpeBH2ztJ4wYnLsRz8R9_%E0%B8%A8%E0%B8%B2%E0%B8%AA%E0%B8%95%E0%B8%A3%E0%B8%B2_The_Legend_of_Muay_Thai-_9_Satra.jpg",  9 ศาสตรา
-https://101-hls.playercdn.tk/hls/88d96oy/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/9UGbMzg83sswzuQbFILMg0FKlVh2c7r.jpg",  BASIC รุกฆาต ปฏิบัติการลวงโลก
-https://101-hls.playercdn.tk/hls/524nnef/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img06.xyz/assets/movie_poster/a/a6902e91f2c6d1f428c2023fd3f9aefd.jpg",  Kingdom:  อาชินแห่งเผ่าเหนือ
-https://server31.oneplayer.online/hls/ekgPo1N/file_360.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://www.img06.xyz/assets/movie_poster/3/38a38fd8c1329b80a3cda38ff62ef511.jpg",  รูโรนิ เคนชิน ซามูไรพเนจร (ปฐมบท)
-https://fdsggdhthfdd.oneplayer.online/hls/Wr4WHxr/file_,360,.mp4.urlset/master.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/BRat6HTDOKLeF4UWt1dG6Hr744nC3hD.jpg",  TO DUST เถ้า สู่ ธุลี
-https://101-hls.playercdn.tk/hls/yfnjdqo/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/ND2DGhndCGb6yEPRsJYvro2rTazrXnJ.jpg",  ปลุกคดีเมืองอัสดงสยอง
-https://101-hls.playercdn.tk/hls/jou8d66/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/41Ys0qAaSu7yjDgIL5fnrU799LM6D3Z3.jpg",  จูบมรณะ
-https://101-hls.playercdn.tk/hls/7mwopti/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/4ZmK0n9smENosGzhslLqiOYvyaRr0P51556174844_cover6.jpg",  GHOST SHIP มอญซ่อนผี
-https://101-hls.playercdn.tk/hls/nnqk24z/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/gKaHnyEWtJ4xURpRAb43rs2PVCHjbe5.jpg",  UPSIDE DOWN นิยามรักปฎิวัติสองโลก
-https://101-hls.playercdn.tk/hls/tglro6e/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/LDcrqZpMQAkKNeGcUyNVzRnUqaO9AZm.jpg",  CASE 39 คดีอาถรรพ์หลอนจากนรก
-https://101-hls.playercdn.tk/hls/hak57wz/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/7k7O1Ew387ar7CBlUfXBmZop25o4EZX.jpg",  VISIONS ลางสังหรณ์
-https://101-hls.playercdn.tk/hls/50oy6yc/file_720.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/eQmHpQUeX6hPtuO41SAjNLhoICbMYFj.jpg",  THE CALL สายตรงต่ออดีต
-https://101-hls.playercdn.tk/hls/dl8umvv/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/4fCZ3qI4H2CjYOqHwrC1F9mWIA3QXg2.jpg",  EVIDENCE
-https://101-hls.playercdn.tk/hls/ztwsoyn/file_360.mp4/playlist.m3u8
-
-#EXTINF:-1 group-title="หนัง" tvg-logo="https://fwiptv.tv/images/movie/KPGUKK1p7hiWtZY81F5BZSPysGxQ6Dx.jpg",  กระดานผีกระชากวิญญาณ
-https://101-hls.playercdn.tk/hls/e6sovpv/file_360.mp4/playlist.m3u8
-
 ##################----Netflix------##################
 
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.1
@@ -88,7 +11,7 @@ https://server32.oneplayer.online/hls/rK4Ff4S/file_360.mp4/index-v1-a1.m3u8
 https://server4.oneplayer.online/hls/2jWAeuf/file_360.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.4
-https://ldkooeskd.oneplayer.online/hls/9Lz7pN6/file_360.mp4/index-v1-a1.m3u8
+https://www170.sbcdnvideo.com/hls/tysxeltn6g66j6cdabvbvwifo2ksxwyauwsrcbsgvwphwmyrel7dqkebnedq/index-v1-a1.m3u8
 
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.5
 https://server10.oneplayer.online/hls/6sSMV8L/file_720.mp4/index-v1-a1.m3u8
@@ -132,6 +55,8 @@ https://ldkooeskd.oneplayer.online/hls/C4BN9Cq/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="The Good Doctor Season 1" tvg-logo="https://movie24-hr.com/wp-content/uploads/2021/02/The-Good-Doctor-Season-1.jpg",  EP.18
 https://server9.oneplayer.online/hls/3atgISx/file_360.mp4/index-v1-a1.m3u8
 
+#---พลิกแผ่นดินล่า---#
+
 #EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.1
 https://ddspzoeujaouf.oneplayer.online/hls/XvE6dlL/file_360.mp4/index-v1-a1.m3u8
 
@@ -162,55 +87,118 @@ https://ddspzoeujaouf.oneplayer.online/hls/YV4Cjmu/file_360.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Hit&Run Season 1" tvg-logo="https://www.img06.xyz/assets/movie_poster/7/7976b7b573d6c65beebf681523641b22.jpg",  พลิกแผ่นดินล่า EP.9
 https://ddspzoeujaouf.oneplayer.online/hls/I5gqO7P/file_360.mp4/index-v1-a1.m3u8
 
-###############------TV--------###############
+###---แฮรี่พอตเตอร์1-8---###
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/8oMDGLr2GYHDxE9geyU.jpg",  ภาค1 ศิลาอาถรรพ์ 
+https://www104.sbcdnvideo.com/hls/tysxeelv5o66j6cdaberxrcypnfqmq62sj7b7xctds32rcm5oi72mk7jtioa/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Z8xotYsjRvzJ5OlZDqJ.jpg",  ภาค2 ห้องแห่งความลับ
+https://101-hls.playercdn.tk/hls/50oy6yc/file_720.mp4/playlist.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/jOcMR89K9VQzl8RcBko.jpg",  ภาค3 นักโทษแห่งอัซคาบัน
+https://www165.sbcdnvideo.com/hls/tysxfyla4s66j6cdabdbxqs7oaix7sx57kwe3cxfp6jsya5a3rqefzouz4hq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/VO3DoB2MMw5joCWQwEz.jpg",  ภาค4 ถ้วยอัคนี
+https://www124.sbcdnvideo.com/hls/tysxevvh5k66j6cdac3brs22po3kgvdus67g3zcmkkmjoq2ozdd46y3aayga/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/ds2z6VrtniBmXFMO7tW.jpg",  ภาค5 ภาคีนกฟีนิกซ์ 
+https://www153.sbcdnvideo.com/hls/tysxebmv5o66j6cdabarxhksfddaifnz3cnf4aflhve2snp3d6gpdeh644ua/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/mT2kBS04KWO5kgsbvOJ.jpg",  ภาค6 เจ้าชายเลือดผสม 
+https://www7.sbcdnvideo.com/hls/tysxfhrf5k66j6cdacybrhscecxl4uu7jcnpenxxkha5xsz2bi5vikzoliwq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/lI4Pa0LS1go8tI2wTW2.jpg",  ภาค7 เครื่องรางยมทูต
+https://www139.sbcdnvideo.com/hls/tysxe7en5o66j6cdabbbxrsahnwva3aqpncvt3wc32uxvhmed2q6vayjbjkq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="แฮร์รี่พอตเตอร์" tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/Fz0qTlzTkEAL90gTXkV.jpg",  ภาค8 เครื่องรางยมทูต
+https://www36.sbcdnvideo.com/hls/tysxfxxy5o66j6cdabhrxws3gv3ge56y34xzij6lkvxggvklfpxorcs2digq/index-v1-a1.m3u8
+
+###---ผีชีวะ มหันตภัยไวรัสมืด---###
+
+#EXTINF:-1 group-title="ผีชีวะ มหันตภัยไวรัสมืด " tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/07/Resident-Evil-Infinite-Darkness-Netflix-2021.jpg", ผีชีวะฯ Ep.1
+https://www27.sbcdnvideo.com/hls/tysxfe77wk66j6cdaa2b7q2hee3j4h3cwkjjlxalvnpr4dgx7akbvh63mtga/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="ผีชีวะ มหันตภัยไวรัสมืด " tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/07/Resident-Evil-Infinite-Darkness-Netflix-2021.jpg", ผีชีวะฯ Ep.2
+https://www22.sbcdnvideo.com/hls/tysxe677wk66j6cdaa2b7f2ffqrckkbzoh2lh2hjiy53uvstcxn5odqtwgha/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="ผีชีวะ มหันตภัยไวรัสมืด " tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/07/Resident-Evil-Infinite-Darkness-Netflix-2021.jpg", ผีชีวะฯ Ep.3
+https://www21.sbcdnvideo.com/hls/tysxfj77wk66j6cdaa2b7q2vpjfxckxp2v566sebv5dea2rj7pftvehcrhxq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="ผีชีวะ มหันตภัยไวรัสมืด " tvg-logo="https://www.movie-19.com/wp-content/uploads/2021/07/Resident-Evil-Infinite-Darkness-Netflix-2021.jpg", ผีชีวะฯ Ep.4
+https://www23.sbcdnvideo.com/hls/tysxetxywk66j6cdaa2b7tcgfpidmyk5knna4ymskmfm4q7zpc3g6gqderza/index-v1-a1.m3u8
+
+###---THE WALKING DEAD SEASON 1---###
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.1
+https://www160.sbcdnvideo.com/hls/tysxecve4666j6cdaaebxhccefr3c2kmqni33erk2eqzla5okp7db7sndjoa/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.2
+https://www136.sbcdnvideo.com/hls/tysxfhop7k66j6cdacbrxwyef2sw4qakfzerlih4jol4e3w5rnhrm2br7gua/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.3
+https://www97.sbcdnvideo.com/hls/tysxezgr6666j6cdabcbvwkheeuicbrguesztfkvr7ame4ooqd5vzpu3rjoq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.4
+https://www42.sbcdnvideo.com/hls/tysxfwju7666j6cdadurxrk4eypj2skt2cc6jsaix4ngvkzpat4h2uufxffq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.5
+https://www167.sbcdnvideo.com/hls/tysxfnel7s66j6cdadebxv2iebggsghdaiigf6hv2xskfddbsnlo7bz4yllq/index-v1-a1.m3u8
+
+#EXTINF:-1 group-title="THE WALKING DEAD SEASON 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtLpdVCBBqjdf-Bn169fzkQHyOaGCCD3-Ydg&usqp=CAU",  TWD S1 EP.6
+https://www118.sbcdnvideo.com/hls/tysxe3cm4o66j6cdaaqrxgclppwede54e3om25t4p4wwvxari2m3vhyhqvxa/index-v1-a1.m3u8
+
+######------TV------#######
+
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEX4t1WjnFfiqIGj_jDGntmkzlbS-Y6_zV6w&usqp=CAU", Thai PBS
 https://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/new-tv.jpg", NEW 18
+#EXTINF:-1 group-title="ทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/new-tv.jpg", NEW 18
 https://5f27aa1f6ef91.streamlock.net/jkncnbc/myStream/playlist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://img-ha.mthcdn.com/6yi5CF3nTyGv8p3nRqC0VKEWb1k=/mthai.com/app/uploads/2021/05/nationtv.png", NATION 22
-https://stream-05.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSe7z2Cb-9iuS10D8OadHagU)/dm/3/x6eoldf/d/live-2.m3u8
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://img-ha.mthcdn.com/6yi5CF3nTyGv8p3nRqC0VKEWb1k=/mthai.com/app/uploads/2021/05/nationtv.png", NATION 22
+https://stream-02.sg1.dailymotion.com/sec(ccIVIlWaGsSkNrAGI3_YSdGD-AoVVFXIF0t86Xtkk8M)/dm/3/x6eoldf/d/live-2.m3u8#cell=lsg1
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​
-https://stream-01.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8tRp1_6X1dMv0dKnDOUYrr4)/dm/3/x6g9qjj/s/live-2.m3u8
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjwSfBOQmy_WOMreWjUS7BgGBkAk_XvV83wg&usqp=CAU", WORKPOINT​ 23
+https://www.livedoomovie.com/02_WORKPOINT_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​
-https://www.livedoomovie.com/02_TRUE4U_720p/chunklist.m3u8
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlD-DzL03WuWqa9Ey6FeOWwEfqUbKA2rKB5g&usqp=CAU", True​4U​ 24
+https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYD2YsMdLV1KHwNkmd_R3Gwabbjri8s8yN7g&usqp=CAU", GMM​ 25
 http://live2.dootvde.com/live/50018_gmm.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​ 8
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg", CH​8 27
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/480p/index.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThOWFHcWi6mfovEeHGGRnx-KOsgI8Y5TGcRw&usqp=CAU", MONO​ 29
 https://www.livedoomovie.com/02_MONO_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIt1eRVAzNJSNPNKfmbWOBJbIPuvYVk1kB-w&usqp=CAU", MCOT​ 30
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1c_Y3WMEcH5Xm4gLLe6P8FJxfLjvCGDdi2A&usqp=CAU", ONE​ 31
 https://www.livedoomovie.com/02_GMMONE_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm7uvZbN0xOhznJ-Eb3oUcUhXfUq5RtPZIqg&usqp=CAU", Thairath​ 32
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQowrnrVluavGPdBIA5CbwZ097ROqmtFe-3ug&usqp=CAU", CH 3 33
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSabXw_t7nOov-8jUePNbAi4SljD9AZtyYHQ&usqp=CAU", AMARIN​ 34
 http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/chunklist_w1515276573_b1928000_slThai.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​7 35
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​7 35
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV 36
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW5qzu7jYFZy131ETGDE4xws6E24swu8AuoA&usqp=CAU", CH​7 35 (สำรอง)
+https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
+
+#EXTINF:-1 group-title="ทีวี" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHspjHVNf9RDS1I3kkqUJ1Fj-DbO3LbQP4ug&usqp=CAU", PPTV 36
 http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg", ทีวีรัฐสภา
+#EXTINF:-1 group-title="ทีวี" tvg-logo="http://www.onlinethailand.net/tv_online/images/parliament.jpg", ทีวีรัฐสภา
 http://49.231.66.85:1935/live/tptv/playlist.m3u8
 
-#EXTINF:-1 group-title="ดิจิตอลทีวี" tvg-logo="http://www.aiiztv.com/images/topnews.jpg", TOPNEWS
+#EXTINF:-1 group-title="ทีวี" tvg-logo="http://www.aiiztv.com/images/topnews.jpg", TOPNEWS
 https://live.topnews.co.th/hls/topnews_a_480.m3u8
